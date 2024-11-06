@@ -1,7 +1,7 @@
 # UMM - Ultra Minimalist Modular
 Plate carrier design by Aman Labs.
 
-![IMG_6421 2](https://github.com/user-attachments/assets/de924ace-e894-4847-92d8-58f3cee3f81b)
+![F1A677AB-9EAE-4304-A693-F255E70E0725](https://github.com/user-attachments/assets/2889b58b-1e7b-4e76-8348-a66308aeef04)
 
 
 ## Material
